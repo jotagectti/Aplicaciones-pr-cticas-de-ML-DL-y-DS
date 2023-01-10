@@ -1,2 +1,3 @@
-# Aplicaciones-pr-cticas-de-ML-DL-y-DS
-Clase de Structuralia
+# Aplicaciones-practicas-de-ML-DL-y-DS
+MIT Workshop, January 2023
+
